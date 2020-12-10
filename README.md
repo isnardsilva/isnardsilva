@@ -13,14 +13,13 @@
   💼 https://www.linkedin.com/in/isnardsilva/
 </h5>
 
-<center>
-<table>
-  <tr>
+<!-- <center> -->
+<!-- <table> -->
+<!--   <tr> -->
 <!--       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnardsilva&hide=html&layout=compact" /></td> -->
-      <td><img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=isnardsilva&theme=default" /></td>
-  </tr>   
-</table>
-</center>
+<img width="495px" align="center" src="https://github-readme-stats.vercel.app/api?username=isnardsilva&theme=default" />
+
+
 
 <!--
 **isnardsilva/isnardsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
