@@ -2,7 +2,7 @@
   Olá, eu sou o Isnard Silva!
 </h4>
 <p align="left">
-  Eu sou graduado em Ciência da Computação e desenvolvedor iOS a quase dois anos na Apple Developer Academy - UCB onde atuo no desenvolvimento de aplicativos para iPhone, iPad, Apple Watch e Apple TV desde a sua concepção até a sua publicação na App Store (abaixo deixo o link de alguns deles 😉).
+  Desenvolvedor iOS, alumni do projeto Apple Developer Academy da Universidade Católica de Brasília (UCB) e graduado em Ciência da Computação também pela UCB. Adora consumir tecnologia, bem como, participar do seu desenvolvimento transformando ideias na forma de aplicativos para iPhone, iPad, Apple Watch e Apple TV.
   
 📱[Posie](https://apps.apple.com/br/app/posie-photo-coach-organizer/id1529940784) | [Lilly](https://apps.apple.com/br/app/lilly-assistant/id1480953975) | [Economeasy](https://apps.apple.com/br/app/economeasy/id1514324170) | [Dr!nk](https://apps.apple.com/br/app/dr-nk/id1519513099) | [Sup.pose](https://apps.apple.com/br/app/sup-pose/id1496619973)
 
