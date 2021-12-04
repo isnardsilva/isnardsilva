@@ -17,16 +17,16 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
+<!-- 
  <div>
 <a href="https://github.com/isnardsilva">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isnardsilva&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isnardsilva&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-</div>
+</div> -->
 
 <div>
-  <a href="https://github.com/gustavochx">
+  <a href="https://github.com/isnardsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isnardsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnardsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
