@@ -1,6 +1,6 @@
 ## Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, eu sou o Isnard Silva!
 
-- 🔭 iOS Developer na [Compass.uol](https://compass.uol).
+- 🔭 iOS Developer no [C6 Bank](https://www.c6bank.com.br).
 - 🧑‍🎓 Graduado em Ciência da Computação pela Universidade Católica de Brasília (UCB).
 - 👨‍💻 Alumni do projeto Apple Developer Academy (UCB).
 - 🌱 Atualmente focado em aprimorar os conhecimentos em Padrões Arquiteturais e Testes Unitários/UI.
